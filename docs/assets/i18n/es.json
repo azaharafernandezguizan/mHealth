@@ -1,0 +1,31 @@
+{
+    "footer": {
+        "team_name": "Sngular DAIOT: Data, IA e IoT",
+        "source_explanation": "Fuente: WHO. Datos relativos al año 2015."
+    },
+    "header":{
+        "title":"¿Cuánto nos preocupa la mHealth?"
+    },
+    "collapsable": {
+        "show": "Ver",
+        "hide": "Ocultar"
+    },
+    "main_page": {
+        "explanation_title": "¿Qué es la mHealth?",
+        "explanation_message": "La mHealth es la práctica de la medicina y la salud pública soportada por dispositivos móviles como teléfonos, dispositivos de monitorización de pacientes, asistentes digitales y otros dispositivos inalámbricos."
+    },
+    "countries":{
+        "title": "Listado de países evaluados"
+    },
+    "options":{
+        "providing_oversight_and_enforcement_of_data_ownership": "Se supervisa la propiedad de los datos",
+        "promoting_standards_and_interoperability": "Se promueven estándares e interoperabilidad",
+        "mhealth_programmes_are_sponsored_by_government": "Programas mhealth patrocinados por el gobierno",
+        "providing_incentives_and_guidance_for_innovation_research_and_evaluation_of_health": "Existen incentivos y orientación para innovación, investigación y evaluación de la salud",
+        "regulatory_oversight_of_mobile_apps_for_quality,_safety_and_reliability": "Existe supervisión regulatoria de las aplicaciones móviles para calidad,seguridad y confiabilidad",
+        "promoting_the_development_and_adoption_of_mhealth": "Se promueve el desarrollo y la adopción de mhealth",
+        "government-sponsored_mhealth_programmes_are_being_evaluated": "Se está evaluando patrocinar programas de msalud por el gobierno",
+        "providing_guidance_on_privacy_and_security": "Existe orientación sobre privacidad y seguridad",
+        "regulating_mobile_devices_and_software": "Existe regulación de dispositivos móviles y software"
+    }
+}

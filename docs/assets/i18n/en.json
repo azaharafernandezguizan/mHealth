@@ -1,0 +1,32 @@
+{
+    "footer": {
+        "team_name": "Sngular DAIOT: Data, AI and IoT",
+        "source_explanation": "Source: WHO. Data related to year 2015."
+    },
+    "header":{
+        "title":"How much do we care about mHealth?"
+    },
+    "collapsable": {
+        "show": "Show",
+        "hide": "Hide"
+    },
+    "main_page": {
+        "explanation_title": "What is mHealth?",
+        "explanation_message": "mHealth is the practice of medicine and public health supported by mobile devices such as phones, patient monitoring devices, digital assistants, and other wireless devices"
+    },
+    "countries":{
+        "title": "Countries evaluated list"
+    },
+    "options":{
+        "providing_oversight_and_enforcement_of_data_ownership": "providing oversight and enforcement of data ownership",
+        "promoting_standards_and_interoperability": "promoting standards and interoperability",
+        "mhealth_programmes_are_sponsored_by_government": "mhealth programmes are sponsored by government",
+        "providing_incentives_and_guidance_for_innovation_research_and_evaluation_of_health": "providing incentives and guidance for innovation research and evaluation of health",
+        "regulatory_oversight_of_mobile_apps_for_quality,_safety_and_reliability": "regulatory oversight of mobile apps for quality, safety and reliability",
+        "promoting_the_development_and_adoption_of_mhealth": "promoting the development and adoption of mhealth",
+        "government-sponsored_mhealth_programmes_are_being_evaluated": "government-sponsored mhealth programmes are being evaluated",
+        "providing_guidance_on_privacy_and_security": "providing guidance on privacy and security",
+        "regulating_mobile_devices_and_software": "regulating mobile devices and software"
+    }
+    
+}
