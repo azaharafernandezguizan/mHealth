@@ -1,0 +1,16 @@
+@import "../../../styles/colors";
+
+.main_container{
+    width: 90%;
+    margin: 2% 5%;
+    border: 2px solid $color-secondary;
+    border-radius: 0.4em;
+    padding: 0.5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    font-size:0.9em;
+}
+
+.option_div input{
+    margin-right: 0.5rem;
+}

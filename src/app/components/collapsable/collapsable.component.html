@@ -1,0 +1,10 @@
+<div class="main_content">
+    <div class="collapsable_header" (click)="onCollapse()">
+        <h2>{{title}}</h2>
+        <span *ngIf="isCollapse">{{'collapsable.show' | translate}}</span>
+        <span *ngIf="!isCollapse">{{'collapsable.hide' | translate}}</span>
+    </div>
+    <div class="collapsable_body" *ngIf="!isCollapse">
+        <ng-content></ng-content>
+    </div>
+</div>

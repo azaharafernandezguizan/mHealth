@@ -1,0 +1,27 @@
+@import "../../../styles/colors";
+
+.main_container{
+    width: 90%;
+    margin: auto;
+}
+
+.countries_list{
+    width: 100%;
+    font-size: 0.6em;
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 30em) 20%;
+    height: 10vh;
+    overflow-y: auto;
+}
+
+.country_span{
+    margin-right: 1rem;
+    word-wrap:break-word;
+}
+
+#map {
+    height: 45vh;
+    width: 50vw;
+    margin-left: 25vw;
+}

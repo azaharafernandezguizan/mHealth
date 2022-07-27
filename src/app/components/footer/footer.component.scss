@@ -1,0 +1,24 @@
+@import "../../../styles/colors";
+
+.main_content{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    font-size:0.8em;
+    font-weight:700;
+    position: absolute;
+    bottom: 0rem;
+    left:0rem;
+    border-top: 2px solid $color-secondary;
+    background-color: $color-secondary;
+    color: $color-text;
+    padding: 0.5rem;
+}
+
+.footer_div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    width: 99%;
+}

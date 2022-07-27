@@ -1,0 +1,13 @@
+@import "styles/colors";
+
+body{
+    background-color: $color-primary;
+    font-size: 1.5em;
+    color: $color-text;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+    margin: 0%;
+}
